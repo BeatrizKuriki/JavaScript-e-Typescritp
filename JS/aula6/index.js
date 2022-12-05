@@ -16,4 +16,6 @@ variáveis precisam ter nomes significativos
 Não começar o nome da variável com número
 Não pode ter espaços ou traços
 Utilizamos camelCase
-Variáveis são case sensitive*/ 
+Variáveis são case sensitive
+Quando let não podemos redeclarar uma variável
+Não utilizar var sempre let*/ 
