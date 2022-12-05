@@ -6,3 +6,5 @@ console.log(25);
 ncflkalfkjsfkljg
 */
 
+alert('Olá mundo');
+
