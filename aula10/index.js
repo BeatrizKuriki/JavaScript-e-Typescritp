@@ -22,4 +22,8 @@ NULL É UTILIZADO PELO PROGRAMADOR QUANDO QUER DESCONFIGURAR UMA VARIÁVEL
  /* No caso acima o valor 3 foi adiciona em a e b 
  criada a variavel a que aponta para local na memória e depois criada a variavel
  b que recebeu os valores de a e assim apontava para o mesmo local na memória
+ o valor que foi adiciona em b também foi adiciona em a porque comos ambas as variáveis
+ apontam para o mesmo local de memória, a alteração de uma reflete na outra, então
+ se eu adicionar um elemento no array b esse elemente também comporá
+ o array a
  */
